@@ -1,0 +1,13 @@
+# Rank
+Update: 8 October 2018
+
+ID	|	Homework01	|	Homework02	|	Homework03	|	Extra points	|	Total
+————————	|	————————	|	————————	|	————————	|	————————	|	————————
+3b5a1482117fd81a3d2036afc881aca4	|	5	|	5	|	5	|	25	|	40
+b0b3f371d48d7dd0297255b21d2967c6	|	5	|	5	|	5	|	20	|	35
+198590ced1d5acfecf5b7ab5ba920bf1	|	5	|	5	|	5	|	10	|	25
+1532c367f9751f294c3b4d53a1465e97	|	5	|	5	|	5	|	5	|	20
+482f771340d5fd2180e3126922abbcd0	|		|		|	5	|	10	|	15
+16f460dff30493dd9adff341cfb0913b	|		|	5	|		|	5	|	10
+ea03fcb8c47822bce772cf6c07d0ebbb	|		|		|		|		|	0
+9c9d2564759b8d0daa00365fc326b18b	|		|		|		|		|	0
