@@ -5,17 +5,17 @@ Source files of material for IOCAS workshop "Deep Sea Microbiome".
 October 8th, 2018. IOCAS.
 
 
-## Topic: 
+## Topic
 
 hands-on course on Deep Sea Microbiome
 
 
-## Aims: 
+## Aims
 
 Background, data collection, Linux, pipeline, atlas
 
 
-## Contributors:
+## Contributors
 
 Tong Zhou: Ph.D student, IOCAS
 
@@ -23,54 +23,54 @@ Tong Zhou: Ph.D student, IOCAS
 ## Table of content
 - Contributors
 - Introduction
--- Microbiome
--- Deep Sea
+  - Microbiome
+  - Deep Sea
 - Data
--- Database
---- GeneBank
---- Silva
--- File format
---- biosample
---- SRA
---- fasta／fastq
--- Collection
--- Filter
--- Download
+  - Database
+    - GeneBank
+    - Silva
+  - File format
+    - biosample
+    - SRA
+    - fasta／fastq
+  - Collection
+  - Filter
+  - Download
 - Linux tools
--- Shell
---- grep
---- cat
---- less
---- ls
---- ln
---- time
---- top
--- Vim
---- open / save / exit
---- edit
---- command
---- re
--- Perl
---- system
---- I/O
---- print
---- re
---- loop
--- R
---- ggplot2
---- ggtree
---- pheatmap
+  - Shell
+    - grep
+    - cat
+    - less
+    - ls
+    - ln
+    - time
+    - top
+  - Vim
+    - open / save / exit
+    - edit
+    - command
+    - re
+  - Perl
+    - system
+    - I/O
+    - print
+    - re
+    - loop
+  - R
+    - ggplot2
+    - ggtree
+    - pheatmap
 - Pipeline
--- Tools
---- usearch
---- qiime2
---- dada2
---- mothur
--- built
--- test
--- run
+  - Tools
+    - usearch
+    - qiime2
+    - dada2
+    - mothur
+  - built
+  - test
+  - run
 - Result
--- Atlas
+  - Atlas
 - Acknowledgements
 - Rank
 
