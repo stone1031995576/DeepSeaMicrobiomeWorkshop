@@ -1,10 +1,11 @@
 # Member list
 Name | School | year | join time
 ------------ | ------------- | ------------ | -------------
-Daji Hu | 39 High School | 1st | Sep, 20 2018
-Zhengjia Sun | 39 High School | 1st | Sep, 20 2018
-Jintao Wan | 39 High School | 1st | Sep, 20 2018
-Kun Zhuang | 39 High School | 1st | Sep, 20 2018
-Zhuang Tian | 39 High School | 1st | Sep, 20 2018
-Zhanmo Jin | 39 High School | 1st | Sep, 20 2018
-Hang Wang | 39 High School | 1st | Sep, 20 2018
+Daji Hu | 39 High School | 1st | 20 Sep 2018
+Zhengjia Sun | 39 High School | 1st | 20 Sep 2018
+Jintao Wan | 39 High School | 1st | 20 Sep 2018
+Kun Zhuang | 39 High School | 1st | 20 Sep 2018
+Zhuang Tian | 39 High School | 1st | 20 Sep 2018
+Zhanmo Jin | 39 High School | 1st | 20 Sep 2018
+Hang Wang | 39 High School | 1st | 20 Sep 2018
+Yuchen Li | alexandra college | 5th | 09 
