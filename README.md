@@ -23,6 +23,7 @@ Tong Zhou: Ph.D student, IOCAS
 ## Table of content
 - Contributors
 - Introduction
+  - Game rules
   - Microbiome
   - Deep Sea
 - Data
