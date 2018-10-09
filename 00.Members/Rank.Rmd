@@ -1,5 +1,5 @@
 # Rank
-Update: 8 October 2018
+Update: 9 October 2018
 
 ID | Homework01 | Homework02 | Homework03 | Extra points | Total
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
