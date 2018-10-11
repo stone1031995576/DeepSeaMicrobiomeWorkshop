@@ -1,0 +1,9 @@
+# Homework 01: Animals & Plants
+Q: What is your favorite animal and plant?
+A:
+3b5a1482117fd81a3d2036afc881aca4: cactus
+b0b3f371d48d7dd0297255b21d2967c6: dog
+198590ced1d5acfecf5b7ab5ba920bf1: eagle and other flying animals; dandelion and cactus
+1532c367f9751f294c3b4d53a1465e97: dog; peanut
+3716fccc59382aa29d789dfeb1e00a77: wolf; mimosa
+b8229a02248c14bed1e69626dd382c13: rabbit
