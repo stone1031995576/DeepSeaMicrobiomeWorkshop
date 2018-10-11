@@ -1,0 +1,9 @@
+# Homework 02: Disease
+Q: Which disease are you most concerned about?
+A:
+3b5a1482117fd81a3d2036afc881aca4: incurable disease and cold
+16f460dff30493dd9adff341cfb0913b: lazy cancer
+b0b3f371d48d7dd0297255b21d2967c6: The mad breeding of bacteria after the body's immune system is terminated, causing soft tissue to soar up corrupt gases
+198590ced1d5acfecf5b7ab5ba920bf1: tumor
+1532c367f9751f294c3b4d53a1465e97: cancer and hypertension
+b8229a02248c14bed1e69626dd382c13: parkinson
