@@ -19,8 +19,6 @@ Background, data collection, Linux, pipeline, atlas
 
 Tong Zhou: Ph.D student, IOCAS
 
-Shilei Sang: Ph.D student, JNU
-
 
 ## Table of content
 - Contributors
